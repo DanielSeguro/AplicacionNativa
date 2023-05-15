@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetoXtasis</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="txt_agregar">Escribe el nombre del participante...</string>
+</resources>
+
